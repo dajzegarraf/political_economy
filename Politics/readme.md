@@ -1,3 +1,6 @@
 Papers published in journals of Political Science
 
-1.Fergusson, L., Querubin, P., Ruiz, N. A., & Vargas, J. F. (2021). [The real winner's curse.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12508) American Journal of Political Science, 65(1), 52-68.
+1. Fergusson, L., Querubin, P., Ruiz, N. A., & Vargas, J. F. (2021). [The real winner's curse.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12508) American Journal of Political Science, 65(1), 52-68.
+2. Ch, R., Shapiro, J., Steele, A., & Vargas, J. F. (2018). [Endogenous taxation in ongoing internal conflict: The case of Colombia.](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/endogenous-taxation-in-ongoing-internal-conflict-the-case-of-colombia/13C635D02B87F7F3B39323CF56174B54?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) American Political Science Review, 112(4), 996-1015.
+3. Prem, M., Rivera, A. F., Romero, D. A., & Vargas, J. F. (2022). [Selective Civilian Targeting: The Unintended Consequences of Partial Peace.](https://www.nowpublishers.com/article/Details/QJPS-20088) Quarterly Journal of Political Science, 17(3).
+4. Bautista, M. A., González, F., Martínez, L. R., Muñoz, P., & Prem, M. (2023). [The geography of repression and opposition to autocracy.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12614) American Journal of Political Science, 67(1), 101-118.
